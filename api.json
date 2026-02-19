@@ -1,7 +1,4 @@
-{
-  "metadata": { "email": "23f2001372...", "version": "17e1cd5f" },
-  "products": [ /* 16 items */ ],
-  "aggregations": {
-    "electronics": { "count": 3, "inventoryValue": 18158.73 }  ← THIS
-  }
+"electronics": {
+  "count": 3,           ← 3 electronics products ✓
+  "inventoryValue": 18158.73  ← (139.77×77 + 59.77×23 + 54.44×66) ✓
 }
